@@ -7,13 +7,9 @@ program sederhana yaitu simple calculator yang dibuat dengan html, css dan javas
 * JavaScript
 
 ### alat yang digunakan
-
 * handphone
-* code editor
-  * Acode (playstore)
-
-* browser
-  * Google Chrome
+* code editor (Acode)
+* browser (Google Chrome)
 
 ### preview
 
