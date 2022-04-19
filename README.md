@@ -14,3 +14,7 @@ program sederhana yaitu simple calculator yang dibuat dengan html, css dan javas
 
 * browser
   * Google Chrome
+
+### preview
+
+![gambar](https://github.com/candradwicahyo/simple-calculator/blob/master/20220419_210335.jpg)
